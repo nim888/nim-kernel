@@ -1,15 +1,22 @@
 {
-    "name": "nimkernels556obj",
-    "version": "1.0.1",
-    "description": "nimkernels js",
-    "main": "index.js",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/nim888/nim-kernel.git"
-    },
-    "keywords": [
-        "nimkernels556obj"
-    ],
-    "author": "nim.shi"
-
+  "name": "nimkernels2",
+  "version": "1.0.0",
+  "description": "this is an open source project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nim888/nim-kernel.git"
+  },
+  "keywords": [
+    "nimlermels2"
+  ],
+  "author": "nim.shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nim888/nim-kernel/issues"
+  },
+  "homepage": "https://github.com/nim888/nim-kernel#readme"
 }

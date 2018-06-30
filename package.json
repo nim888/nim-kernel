@@ -1,14 +1,14 @@
 {
-    "name": "nim-kernel",
+    "name": "nimkernels",
     "version": "0.0.1",
-    "description": "sdk2",
+    "description": "nimkernels js",
     "main": "index.js",
     "repository": {
         "type": "git",
         "url": "https://github.com/nim888/nim-kernel.git"
     },
     "keywords": [
-        "nim-kernel"
+        "nimkernels"
     ],
     "author": "nim.shi"
 

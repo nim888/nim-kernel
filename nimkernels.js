@@ -1,5 +1,5 @@
 exports.nimkernel = function() {
-    //toString
+
     var toString = function(obj) {
         return ({}).toString.call(obj);
     };
